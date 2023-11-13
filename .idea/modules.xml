@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nextarter-chakra.iml" filepath="$PROJECT_DIR$/.idea/nextarter-chakra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test-task-league.iml" filepath="$PROJECT_DIR$/.idea/test-task-league.iml" />
     </modules>
   </component>
 </project>

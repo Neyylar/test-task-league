@@ -1,4 +1,4 @@
-import { USERS } from '~/lib/consts/user';
+import { USERS } from '~/consts/user';
 
 export const QUERY_KEYS = {
   allUsers: 'allUsers',

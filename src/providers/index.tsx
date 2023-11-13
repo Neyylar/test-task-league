@@ -1,11 +1,12 @@
 'use client';
 
 import { CacheProvider } from '@chakra-ui/next-js';
+import type { PropsWithChildren } from 'react';
 import { QueryClient, QueryClientProvider } from 'react-query';
 
-import { Chakra as ChakraProvider } from '~/lib/components/Chakra';
+import ChakraProvider from './ChakraProvider';
 
-const Providers = ({ children }: { children: React.ReactNode }) => {
+const Providers = ({ children }: PropsWithChildren) => {
   const queryClient = new QueryClient();
   return (
     <CacheProvider>

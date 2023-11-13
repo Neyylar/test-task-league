@@ -1,7 +1,8 @@
-import type { User } from '~/lib/types/user';
-import { Color } from '~/lib/types/user';
+import type { User } from '~/types/user';
+import { Color } from '~/types/user';
 
 const imgUrl = '/img1.jpeg';
+// eslint-disable-next-line import/prefer-default-export
 export const USERS: Array<User> = [
   {
     color: Color.RED,

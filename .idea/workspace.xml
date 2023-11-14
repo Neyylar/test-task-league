@@ -2,40 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3752f0c9-4727-4360-94ab-63cfacfa091c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UserInfo.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layout/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/HomePage/HomePage.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/modules/HomePage/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e2e/home.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-sitemap.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next-sitemap.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/references.md" beforeDir="false" afterPath="$PROJECT_DIR$/references.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/api/users/get-users.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/users/get-users.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/providers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/providers/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/components/Chakra.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/providers/ChakraProvider.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/components/Meta.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/consts/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/consts/user.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/layout/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/layout/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/layout/ThemeToggle.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/ThemeToggle.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/layout/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/pages/home/index.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/styles/theme/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/theme/colors.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/styles/theme/components/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/theme/components/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/styles/theme/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/theme/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/styles/theme/fonts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/theme/fonts.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/styles/theme/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/theme/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/types/user.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/user.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +66,8 @@
       <option name="presentableId" value="Default" />
       <updated>1699891119138</updated>
       <workItem from="1699891122484" duration="3091000" />
-      <workItem from="1699894428532" duration="2664000" />
+      <workItem from="1699894428532" duration="2923000" />
+      <workItem from="1699961723941" duration="445000" />
     </task>
     <servers />
   </component>

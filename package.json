@@ -1,8 +1,8 @@
 {
-  "name": "nextarter-chakra",
+  "name": "test-task-league",
   "version": "0.1.0",
-  "private": true,
-  "author": "sozonome",
+  "private": false,
+  "author": "neyylar",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
